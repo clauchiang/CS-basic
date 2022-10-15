@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\code learning\c#\basic\nine\bin\Debug\net6.0\nine.exe
+C:\Users\user\Desktop\code learning\c#\basic\nine\bin\Debug\net6.0\nine.deps.json
+C:\Users\user\Desktop\code learning\c#\basic\nine\bin\Debug\net6.0\nine.runtimeconfig.json
+C:\Users\user\Desktop\code learning\c#\basic\nine\bin\Debug\net6.0\nine.dll
+C:\Users\user\Desktop\code learning\c#\basic\nine\bin\Debug\net6.0\nine.pdb
+C:\Users\user\Desktop\code learning\c#\basic\nine\obj\Debug\net6.0\nine.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\code learning\c#\basic\nine\obj\Debug\net6.0\nine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\code learning\c#\basic\nine\obj\Debug\net6.0\nine.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\code learning\c#\basic\nine\obj\Debug\net6.0\nine.AssemblyInfo.cs
+C:\Users\user\Desktop\code learning\c#\basic\nine\obj\Debug\net6.0\nine.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\code learning\c#\basic\nine\obj\Debug\net6.0\nine.dll
+C:\Users\user\Desktop\code learning\c#\basic\nine\obj\Debug\net6.0\refint\nine.dll
+C:\Users\user\Desktop\code learning\c#\basic\nine\obj\Debug\net6.0\nine.pdb
+C:\Users\user\Desktop\code learning\c#\basic\nine\obj\Debug\net6.0\nine.genruntimeconfig.cache
+C:\Users\user\Desktop\code learning\c#\basic\nine\obj\Debug\net6.0\ref\nine.dll

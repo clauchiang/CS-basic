@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\code learning\c#\basic\guess\bin\Debug\net6.0\guess.exe
+C:\Users\user\Desktop\code learning\c#\basic\guess\bin\Debug\net6.0\guess.deps.json
+C:\Users\user\Desktop\code learning\c#\basic\guess\bin\Debug\net6.0\guess.runtimeconfig.json
+C:\Users\user\Desktop\code learning\c#\basic\guess\bin\Debug\net6.0\guess.dll
+C:\Users\user\Desktop\code learning\c#\basic\guess\bin\Debug\net6.0\guess.pdb
+C:\Users\user\Desktop\code learning\c#\basic\guess\obj\Debug\net6.0\guess.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\code learning\c#\basic\guess\obj\Debug\net6.0\guess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\code learning\c#\basic\guess\obj\Debug\net6.0\guess.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\code learning\c#\basic\guess\obj\Debug\net6.0\guess.AssemblyInfo.cs
+C:\Users\user\Desktop\code learning\c#\basic\guess\obj\Debug\net6.0\guess.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\code learning\c#\basic\guess\obj\Debug\net6.0\guess.dll
+C:\Users\user\Desktop\code learning\c#\basic\guess\obj\Debug\net6.0\refint\guess.dll
+C:\Users\user\Desktop\code learning\c#\basic\guess\obj\Debug\net6.0\guess.pdb
+C:\Users\user\Desktop\code learning\c#\basic\guess\obj\Debug\net6.0\guess.genruntimeconfig.cache
+C:\Users\user\Desktop\code learning\c#\basic\guess\obj\Debug\net6.0\ref\guess.dll
